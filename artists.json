@@ -1,0 +1,14 @@
+[
+  {
+    "_id": 101,
+    "name": "ArtistA",
+    "dateInit": "2010-01-01",
+    "dateEnd": null
+  },
+  {
+    "_id": 102,
+    "name": "ArtistB",
+    "dateInit": "2015-05-10",
+    "dateEnd": "2022-12-31"
+  }
+]

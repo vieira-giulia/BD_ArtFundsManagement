@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 1,
+    "name": "Painting",
+    "theme": "Nature",
+    "genre": "Landscape",
+    "year": 2022,
+    "typeArt": "Oil",
+    "material": "Canvas",
+    "authorID": 101,
+    "executorID": 201,
+    "owner": "Private"
+  },
+  {
+    "_id": 2,
+    "name": "Sculpture",
+    "theme": "Abstract",
+    "genre": "Modern",
+    "year": 2021,
+    "typeArt": "Marble",
+    "material": "Stone",
+    "authorID": 102,
+    "executorID": 202,
+    "owner": "Museum"
+  }
+]
